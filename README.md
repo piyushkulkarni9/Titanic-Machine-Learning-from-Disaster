@@ -13,6 +13,10 @@ k-Nearest Neighbor (KNN)
 Decision Tree
 Random Forest
 
+First, I trained these classifiers with training data. 
+After that, using the trained classifier, predicted the Survival outcome of test data.
+Finally, calculated the accuracy score (in percentange) of the trained classifier.
+
 
 
 Data Set: https://www.kaggle.com/c/titanic/data
