@@ -19,3 +19,4 @@ Perceptron
 Stochastic Gradient Descent (SGD)
 
 
+Data Set: https://www.kaggle.com/c/titanic/data
