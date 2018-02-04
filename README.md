@@ -9,14 +9,10 @@ Matplotlib
 
 Classifying algorithms used:
 Logistic Regression
-Support Vector Machines (SVC)
-Linear SVC
 k-Nearest Neighbor (KNN)
 Decision Tree
 Random Forest
-Naive Bayes (GaussianNB)
-Perceptron
-Stochastic Gradient Descent (SGD)
+
 
 
 Data Set: https://www.kaggle.com/c/titanic/data
