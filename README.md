@@ -14,7 +14,7 @@ Decision Tree
 Random Forest
 
 First, I trained these classifiers with training data. 
-After that, using the trained classifier, predicted the Survival outcome of test data.
+After that, using the trained classifier, predicted the survival outcome of test data.
 Finally, calculated the accuracy score (in percentange) of the trained classifier.
 
 
